@@ -1,2 +1,3 @@
-# Sample-Code-Collection
- 示例代码库
+# Learning-Platform
+
+一个用来分享学习资料的平台，便于大家互相讨论和学习
